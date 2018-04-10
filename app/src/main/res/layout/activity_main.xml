@@ -7,6 +7,7 @@
     tools:context="e.giuseppemonetti.esempi_lezione.ElencoStudentiActivity">
 
     <ListView
+        android:id="@+id/listaStudenti"
         android:layout_width="0dp"
         android:layout_height="0dp"
         app:layout_constraintBottom_toBottomOf="parent"
